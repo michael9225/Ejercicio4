@@ -21,6 +21,10 @@ public class APP {
         c = a + b;
 
         System.out.println(c);
+        
+        c = a - b;
+        
+        System.out.println (c);
     }
 
 }
